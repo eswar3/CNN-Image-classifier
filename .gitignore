@@ -1,6 +1,5 @@
 .DS_Store
-dogImages/
-lfw/
+data/
 saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
