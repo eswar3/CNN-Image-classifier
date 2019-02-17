@@ -12,7 +12,26 @@ It is Convolutional Neural Networks (CNN) project in the Deep Learnig Nanodegree
 
 ![Sample Output][image1]
 
-Along with exploring state-of-the-art CNN models for classification
+In the project I have learnt to build state of art CNN models using tensorflow framework and also how to use pre-trained models such as
+	
+	- VGG-19 
+	- ResNet-50 
+	- Inception 
+	- Xception 
+
+and apply transfer learning techniques to train on our data. As you will observe wn this notebook, it made a significant difference compared to training model from scratch
+
+## Project Steps:
+
+Step 0: Import Datasets
+Step 1: Detect Humans
+Step 2: Detect Dogs
+Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+Step 4: Use a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 5: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 6: Write your Algorithm
+Step 7: Test Your Algorithm
+
 
 ## Project Instructions
 
